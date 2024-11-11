@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "gender": "Female",
+    "designation": "Software Engineer",
+    "salary": 85000,
+    "experience": 5,
+    "state": "California"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "gender": "Male",
+    "designation": "Data Scientist",
+    "salary": 95000,
+    "experience": 7,
+    "state": "Texas"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Brown",
+    "gender": "Male",
+    "designation": "Project Manager",
+    "salary": 110000,
+    "experience": 10,
+    "state": "New York"
+  },
+  {
+    "id": 4,
+    "name": "Diana Prince",
+    "gender": "Female",
+    "designation": "HR Manager",
+    "salary": 78000,
+    "experience": 6,
+    "state": "Florida"
+  },
+  {
+    "id": 5,
+    "name": "Edward Norton",
+    "gender": "Male",
+    "designation": "DevOps Engineer",
+    "salary": 92000,
+    "experience": 8,
+    "state": "Washington"
+  },
+  {
+    "id": 6,
+    "name": "Fiona Hill",
+    "gender": "Female",
+    "designation": "Business Analyst",
+    "salary": 87000,
+    "experience": 4,
+    "state": "Illinois"
+  },
+  {
+    "id": 7,
+    "name": "George Martin",
+    "gender": "Male",
+    "designation": "UX Designer",
+    "salary": 81000,
+    "experience": 5,
+    "state": "Colorado"
+  },
+  {
+    "id": 8,
+    "name": "Hannah Williams",
+    "gender": "Female",
+    "designation": "Software Tester",
+    "salary": 72000,
+    "experience": 3,
+    "state": "Arizona"
+  },
+  {
+    "id": 9,
+    "name": "Isaac Newton",
+    "gender": "Male",
+    "designation": "Database Administrator",
+    "salary": 98000,
+    "experience": 9,
+    "state": "Oregon"
+  },
+  {
+    "id": 10,
+    "name": "Julia Roberts",
+    "gender": "Female",
+    "designation": "Marketing Manager",
+    "salary": 105000,
+    "experience": 12,
+    "state": "Nevada"
+  },
+  {
+    "id": 11,
+    "name": "Kevin Hart",
+    "gender": "Male",
+    "designation": "Technical Lead",
+    "salary": 115000,
+    "experience": 10,
+    "state": "Georgia"
+  },
+  {
+    "id": 12,
+    "name": "Linda Davis",
+    "gender": "Female",
+    "designation": "Content Strategist",
+    "salary": 75000,
+    "experience": 4,
+    "state": "Virginia"
+  },
+  {
+    "id": 13,
+    "name": "Michael Jordan",
+    "gender": "Male",
+    "designation": "Cloud Engineer",
+    "salary": 93000,
+    "experience": 6,
+    "state": "Ohio"
+  },
+  {
+    "id": 14,
+    "name": "Natalie Portman",
+    "gender": "Female",
+    "designation": "Product Manager",
+    "salary": 112000,
+    "experience": 9,
+    "state": "Massachusetts"
+  },
+  {
+    "id": 15,
+    "name": "Oscar Wilde",
+    "gender": "Male",
+    "designation": "Full Stack Developer",
+    "salary": 89000,
+    "experience": 5,
+    "state": "North Carolina"
+  },
+  {
+    "id": 16,
+    "name": "Penelope Cruz",
+    "gender": "Female",
+    "designation": "Sales Manager",
+    "salary": 95000,
+    "experience": 7,
+    "state": "Michigan"
+  },
+  {
+    "id": 17,
+    "name": "Quentin Tarantino",
+    "gender": "Male",
+    "designation": "Quality Assurance Engineer",
+    "salary": 83000,
+    "experience": 6,
+    "state": "Pennsylvania"
+  },
+  {
+    "id": 18,
+    "name": "Rachel Green",
+    "gender": "Female",
+    "designation": "Recruiter",
+    "salary": 78000,
+    "experience": 5,
+    "state": "Minnesota"
+  },
+  {
+    "id": 19,
+    "name": "Steve Rogers",
+    "gender": "Male",
+    "designation": "Cybersecurity Analyst",
+    "salary": 98000,
+    "experience": 8,
+    "state": "Maryland"
+  },
+  {
+    "id": 20,
+    "name": "Tina Fey",
+    "gender": "Female",
+    "designation": "Operations Manager",
+    "salary": 100000,
+    "experience": 10,
+    "state": "South Carolina"
+  }
+]
